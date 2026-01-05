@@ -15,9 +15,9 @@ Aspiring Software developer with a great interest in Software Testing as well pa
 
 <h2 align="left">I code with</h2>
 
-###
 
-h2 align="left">Tech Skills</h2>
+
+<h2 align="left">Tech Skills</h2>
 
 <p align="left">
 * HTML <br>
@@ -30,4 +30,4 @@ h2 align="left">Tech Skills</h2>
 * Java <br>
 * Git & GitHub (Basics)
 </p>
-###
+
