@@ -1,16 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
+<h1 align="left">Hi 👋, I'm Aditya Jadhav</h1>
+<p align="left">
+Aspiring Software / Frontend Developer passionate about building user-friendly web applications and learning new technologies.
+</p>
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since <br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
